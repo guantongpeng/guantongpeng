@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guan tongpeng [![Visitor](https://visitor-badge.glitch.me/badge?page_id=guantongpeng.guantongpeng)](https://github.com/guantongpeng/guantongpeng)
+- 👋 Hi, I’m @guan tongpeng
 - 👀 I’m interested in computer vision, data mining, biomedical engineering ...
 - 🔨 My current research is AI Accelerator
 
