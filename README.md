@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @guan tongpeng
-- 👀 I’m interested in computer vision, data mining, biomedical engineering ...
-- 🔨 My current research is AI Accelerator
+- 👋 Hi, I’m @Tongpeng Guan.
+- 👀 I’m interested in Computer Vision, MLSys, Biomedical Engineering ...
+- 🔨 My current research is AI system.
